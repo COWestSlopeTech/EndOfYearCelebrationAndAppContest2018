@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8.2677164in"
-   height="11.692913in"
-   viewBox="0 0 744.09449 1052.3622"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 765.00001 990.00002"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,18 +25,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64189453"
-     inkscape:cx="402.35033"
-     inkscape:cy="507.42158"
+     inkscape:zoom="0.90777595"
+     inkscape:cx="513.68189"
+     inkscape:cy="482.72424"
      inkscape:document-units="in"
-     inkscape:current-layer="g4504"
+     inkscape:current-layer="g4405"
      showgrid="false"
      units="in"
      inkscape:window-width="1855"
      inkscape:window-height="1056"
      inkscape:window-x="1985"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,7 +54,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-62.362175)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot4136"
@@ -87,27 +90,27 @@
            id="rect4303" /></flowRegion><flowPara
          id="flowPara4305"></flowPara></flowRoot>    <g
        id="g4405"
-       transform="translate(3.1157767,295.53628)">
+       transform="matrix(0.83265337,0,0,0.83265337,67.437659,419.29547)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="369.63132"
-         y="658.21643"
+         y="634.19684"
          id="text4263"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            x="369.63132"
-           y="658.21643"
+           y="634.19684"
            id="tspan4267">This is an End Of Year Celebration</tspan><tspan
            sodipodi:role="line"
            x="369.63132"
-           y="708.21643"
+           y="684.19684"
            id="tspan4269" /></text>
       <flowRoot
          xml:space="preserve"
          id="flowRoot4307"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="matrix(0.66978314,0,0,0.66978314,-12.115834,143.25475)"><flowRegion
+         transform="matrix(0.66978314,0,0,0.66978314,-12.115834,119.23515)"><flowRegion
            id="flowRegion4309"><rect
              id="rect4311"
              width="1004.6127"
@@ -115,101 +118,137 @@
              x="63.873421"
              y="778.17383" /></flowRegion><flowPara
            id="flowPara4313"
-           style="line-height:125%;text-align:center;writing-mode:lr-tb;text-anchor:middle">Come for judging and socializing even if you can't make the rest of the App Challenge</flowPara></flowRoot>    </g>
+           style="line-height:125%;text-align:center;writing-mode:lr-tb;text-anchor:middle">Come for judging and socializing on Saturday even if you can't make the rest of the App Challenge</flowPara><flowPara
+           style="line-height:125%;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           id="flowPara4607" /></flowRoot>    </g>
     <flowRoot
-       transform="matrix(0.43392823,0,0,0.43392823,-3.5416066,-185.31724)"
+       transform="matrix(0.38124403,0,0,0.38124403,-0.18268,-63.82036)"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot4307-7"
        xml:space="preserve"><flowRegion
          id="flowRegion4309-7"><rect
            y="778.17383"
            x="63.873421"
-           height="169.64815"
-           width="1568.2738"
+           height="132.87117"
+           width="1866.5758"
            id="rect4311-3" /></flowRegion><flowPara
          style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start"
          id="flowPara4313-7">The Roaring Fork Technologists are hosting their first hackathon this weekend Friday, November 2nd and Saturday, November 3rd.</flowPara></flowRoot>    <g
        id="g4375"
-       transform="translate(16.937119,251.11517)">
+       transform="matrix(0.92696528,0,0,0.92696528,20.027308,245.11936)">
       <g
-         transform="translate(0,-23.587845)"
-         id="g4341">
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot4148"
-           style="font-style:normal;font-weight:normal;font-size:20.30156898px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-             id="flowRegion4150"><rect
-               id="rect4152"
-               width="255.28522"
-               height="401.14972"
-               x="44.75877"
-               y="285.91467"
-               ry="0" /></flowRegion><flowPara
-             id="flowPara4154"
-             style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start">Pitches will start at 6 pm. After everyone has shared their ideas all of the people participating will have the chance to form teams around the ideas and work towards developing a prototype. The winning prototypes will be rewarded with ski passes from SkiCo., Hot Spring passes, and more!</flowPara></flowRoot>        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="40.773369"
-           y="274.71555"
-           id="text4156"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="40.773369"
-             y="274.71555"
-             id="tspan4164">Pitch Night</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-weight:normal;font-size:23.90234375px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="42.353268"
-           y="233.49504"
-           id="text4156-1"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="42.353268"
-             y="233.49504"
-             id="tspan4164-0">Friday Nov. 2</tspan></text>
-      </g>
-      <g
-         id="g4252">
-        <text
-           transform="translate(0,-23.587845)"
-           sodipodi:linespacing="125%"
-           id="text4156-1-3"
-           y="233.49504"
-           x="408.43106"
-           style="font-style:normal;font-weight:normal;font-size:23.90234375px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             id="tspan4164-0-7"
-             y="233.49504"
-             x="408.43106"
-             sodipodi:role="line">Saturday Nov. 3</tspan></text>
+         id="g4741"
+         transform="translate(0,129.45469)">
         <g
-           id="g4198"
-           transform="translate(-5.2367654,0)">
-          <flowRoot
-             transform="translate(416.31994,220.73708)"
-             style="font-style:normal;font-weight:normal;font-size:20.30156898px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             id="flowRoot4148-8"
-             xml:space="preserve"><flowRegion
-               id="flowRegion4150-7"><rect
-                 ry="0"
-                 y="41.589752"
-                 x="0.059616651"
-                 height="401.14972"
-                 width="255.28522"
-                 id="rect4152-9" /></flowRegion><flowPara
-               style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start"
-               id="flowPara4154-6">Teams have till 4:30 PM on Saturday, when judging begins, to produce a prototype. Teams can meet at GlenX (free), on their own, or at the main Hack Day location in Marble (Justins house) where there will be food, games, and distractions to make the prototyping more exciting. </flowPara></flowRoot>          <text
+           transform="translate(8.6303129,0)"
+           id="g4703">
+          <g
+             transform="translate(305.41544,0)"
+             id="g4729">
+            <flowRoot
+               xml:space="preserve"
+               id="flowRoot4148"
+               style="font-style:normal;font-weight:normal;font-size:17.395401px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+                 id="flowRegion4150"><rect
+                   id="rect4152"
+                   width="351.78583"
+                   height="344.9136"
+                   x="-307.15298"
+                   y="283.24695"
+                   ry="0" /></flowRegion><flowPara
+                 id="flowPara4154"
+                 style="line-height:125%;text-align:end;writing-mode:lr-tb;text-anchor:end">Pitches will start at 6 pm. After everyone has shared their ideas all of the people participating will have the chance to form teams around the ideas and work towards developing a prototype. The winning prototypes will be rewarded with ski passes from SkiCo., Hot Spring passes, and more!</flowPara></flowRoot>            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:34.27400208px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="-143.41771"
+               y="242.62735"
+               id="text4156"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="-143.41771"
+                 y="242.62735"
+                 id="tspan4164">Pitch Night</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:20.48072815px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="-88.713417"
+               y="207.30756"
+               id="text4156-1"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="-88.713417"
+                 y="207.30756"
+                 id="tspan4164-0">Friday Nov. 2</tspan></text>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:20.48072815px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               x="-249.30913"
+               y="269.21661"
+               id="text4156-1-4"
+               sodipodi:linespacing="125%"><tspan
+                 sodipodi:role="line"
+                 x="-249.30913"
+                 y="269.21661"
+                 id="tspan4631">201 Main St. Carbondale, Co</tspan></text>
+          </g>
+        </g>
+        <g
+           transform="translate(-21.575781,-1.188385)"
+           id="g4715">
+          <text
              sodipodi:linespacing="125%"
-             id="text4156-0"
-             y="251.1277"
-             x="412.39523"
-             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text4156-1-4-8"
+             y="269.22357"
+             x="443.56824"
+             style="font-style:normal;font-weight:normal;font-size:20.48072815px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
              xml:space="preserve"><tspan
-               id="tspan4164-4"
-               y="251.1277"
-               x="412.39523"
-               sodipodi:role="line">Hack Day</tspan></text>
+               id="tspan4656"
+               y="269.22357"
+               x="443.56824"
+               sodipodi:role="line">115 Alpine St. Marble, CO</tspan></text>
+          <g
+             id="g4252"
+             transform="translate(-2.4627419,0)">
+            <text
+               sodipodi:linespacing="125%"
+               id="text4156-1-3"
+               y="208.49594"
+               x="446.69101"
+               style="font-style:normal;font-weight:normal;font-size:20.48072815px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               xml:space="preserve"><tspan
+                 id="tspan4164-0-7"
+                 y="208.49594"
+                 x="446.69101"
+                 sodipodi:role="line">Saturday Nov. 3</tspan></text>
+            <g
+               id="g4198"
+               transform="translate(85.08064,1.1883869)">
+              <flowRoot
+                 transform="matrix(0.85685011,0,0,0.85685011,363.88282,246.42238)"
+                 style="font-style:normal;font-weight:normal;font-size:20.30156898px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 id="flowRoot4148-8"
+                 xml:space="preserve"><flowRegion
+                   id="flowRegion4150-7"><rect
+                     ry="0"
+                     y="41.589752"
+                     x="0.059616651"
+                     height="381.73276"
+                     width="380.10846"
+                     id="rect4152-9" /></flowRegion><flowPara
+                   style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start"
+                   id="flowPara4154-6">Teams have till 4:30 PM on Saturday, when judging begins, to produce a prototype. Teams can meet at GlenX (free), on their own, or at the main Hack Day location in Marble (Justins house) where there will be food, games, and distractions to make the prototyping more exciting. </flowPara></flowRoot>              <text
+                 sodipodi:linespacing="125%"
+                 id="text4156-0"
+                 y="242.62735"
+                 x="360.51993"
+                 style="font-style:normal;font-weight:normal;font-size:34.27400208px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#585858;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 xml:space="preserve"><tspan
+                   id="tspan4164-4"
+                   y="242.62735"
+                   x="360.51993"
+                   sodipodi:role="line">Hack Day</tspan></text>
+            </g>
+          </g>
         </g>
       </g>
     </g>
@@ -217,92 +256,130 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:37.97119141px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="374.05966"
-       y="57.779114"
+       y="111.77911"
        id="text4263-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="380.10388"
-         y="57.779114"
+         y="111.77911"
          id="tspan4267-3">Pitch an app idea </tspan><tspan
          sodipodi:role="line"
          x="374.05966"
-         y="105.2431"
+         y="159.2431"
          id="tspan4435">and help get it built in 24 hr!</tspan><tspan
          sodipodi:role="line"
          x="374.05966"
-         y="152.70709"
+         y="206.70709"
          id="tspan4269-4" /></text>
     <g
-       id="g4504">
+       id="g4679"
+       transform="translate(0,80)">
       <text
          sodipodi:linespacing="125%"
          id="text4263-5"
-         y="245.59038"
-         x="137.41522"
-         style="font-style:normal;font-weight:normal;font-size:24.75584602px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="227.87311"
+         x="115.52975"
+         style="font-style:normal;font-weight:normal;font-size:19.86321068px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan4267-8"
-           y="245.59038"
-           x="137.41522"
+           y="227.87311"
+           x="115.52975"
            sodipodi:role="line">How does it work?</tspan><tspan
            id="tspan4269-5"
-           y="276.53519"
-           x="137.41522"
+           y="252.70212"
+           x="115.52975"
            sodipodi:role="line" /></text>
       <flowRoot
-         transform="translate(23.669568,257.28662)"
+         transform="matrix(0.86543678,0,0,0.86543678,23.802991,237.28663)"
          xml:space="preserve"
          id="flowRoot4307-7-7"
          style="font-style:normal;font-weight:normal;font-size:17.35713005px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
            id="flowRegion4309-7-3"><rect
              id="rect4311-3-3"
-             width="680.51825"
-             height="73.61512"
+             width="817.70386"
+             height="88.643341"
              x="0.051013183"
              y="-4.1133537" /></flowRegion><flowPara
            id="flowPara4313-7-8"
-           style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start">Come to join us this First Friday at 201 Main Street to pitch an idea you have of an app that can benefit our community in any way. It can be anything from something to prevent road kill, to something that might promote economic growth. The idea is yours to share!</flowPara></flowRoot>      <text
-         sodipodi:linespacing="125%"
-         id="text4263-5-3"
-         y="889.67017"
+           style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start">Come to join us this First Friday at 201 Main Street to pitch an idea you have of an app that can benefit our community in any way. It can be anything from something to prevent road kill, to something that might promote economic growth. The idea is yours to share!</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:19.92654991px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="375.40057"
+       y="899.27002"
+       id="text4263-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
          x="375.40057"
-         style="font-style:normal;font-weight:normal;font-size:19.92654991px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           id="tspan4269-5-6"
-           y="889.67017"
-           x="375.40057"
-           sodipodi:role="line">More info on the Roaring Fork Technologists Facebook group</tspan></text>
-    </g>
+         y="899.27002"
+         id="tspan4269-5-6">More info on the Roaring Fork Technologists Facebook group</tspan></text>
     <g
-       id="g4513"
-       transform="translate(-1.5578883,3.1157767)">
+       id="g4688"
+       transform="translate(0,72.210558)">
       <text
          sodipodi:linespacing="125%"
          id="text4263-5-9"
-         y="351.25739"
-         x="107.96494"
-         style="font-style:normal;font-weight:normal;font-size:24.75584602px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="350.87311"
+         x="90.951508"
+         style="font-style:normal;font-weight:normal;font-size:20.14909744px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            id="tspan4267-8-5"
-           y="351.25739"
-           x="107.96494"
+           y="350.87311"
+           x="90.951508"
            sodipodi:role="line">Qualifications</tspan><tspan
            id="tspan4269-5-5"
-           y="382.20218"
-           x="107.96494"
+           y="376.05948"
+           x="90.951508"
            sodipodi:role="line" /></text>
       <flowRoot
-         transform="translate(24.39264,362.95363)"
+         transform="matrix(0.86716834,0,0,0.86716834,22.903414,366.06942)"
          xml:space="preserve"
          id="flowRoot4307-7-7-3"
          style="font-style:normal;font-weight:normal;font-size:17.35713005px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
            id="flowRegion4309-7-3-8"><rect
              id="rect4311-3-3-6"
-             width="680.51825"
-             height="73.61512"
+             width="825.13843"
+             height="74.513382"
              x="0.051013183"
              y="-4.1133537" /></flowRegion><flowPara
            id="flowPara4313-7-8-0"
            style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start">None! You can be a technologist or a pole-dancer. As long as you are willing to contribute to the ideas, design, or coding of the app in any way you are encouraged to participate!</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.97119141px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="847.64844"
+       y="289.76135"
+       id="text4263-1-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="847.64844"
+         y="289.76135"
+         id="tspan4267-3-8"
+         style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start">1. Pitch an app idea</tspan><tspan
+         sodipodi:role="line"
+         x="847.64844"
+         y="337.22534"
+         id="tspan4588"
+         style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start">2. Race to build it in 24 hours</tspan><tspan
+         sodipodi:role="line"
+         x="847.64844"
+         y="384.68933"
+         style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan4605">3. Avoid distractions from the beautiful mountains and lawn games</tspan><tspan
+         sodipodi:role="line"
+         x="847.64844"
+         y="432.15332"
+         id="tspan4590"
+         style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start">3. Win prizes</tspan><tspan
+         sodipodi:role="line"
+         x="847.64844"
+         y="479.61731"
+         id="tspan4435-7"
+         style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start">4. Celebrate a successful year </tspan><tspan
+         sodipodi:role="line"
+         x="847.64844"
+         y="527.0813"
+         id="tspan4269-4-0"
+         style="line-height:125%;text-align:start;writing-mode:lr-tb;text-anchor:start" /></text>
   </g>
 </svg>
